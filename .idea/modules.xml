@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yishou.iml" filepath="$PROJECT_DIR$/yishou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yishou-api/yishou-api.iml" filepath="$PROJECT_DIR$/yishou-api/yishou-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yishou-core/yishou-core.iml" filepath="$PROJECT_DIR$/yishou-core/yishou-core.iml" />
+    </modules>
+  </component>
+</project>
